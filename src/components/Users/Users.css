@@ -1,0 +1,27 @@
+.datatape__users_list {
+    padding-top: 10px;
+    width: 100%;
+    min-height: 85.5vh;
+}
+.datatape__users_footer {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.short_bio {
+    width: 200px;
+    height: 23px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.btn__user-edit {
+    margin-left: 10px;
+}
+.datatape__edit_user-line {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 100%;
+    min-height: 60px;
+}

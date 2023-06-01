@@ -1,0 +1,10 @@
+.card__footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.edit-article {
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+}

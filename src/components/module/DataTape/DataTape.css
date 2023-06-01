@@ -1,0 +1,23 @@
+.datatape_title {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.datatape_title-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.datatape_title-left span {
+    margin-right: 20px;
+}
+.AddCommentOutlinedIcon {
+    color: rgb(102, 169, 241);
+    cursor: pointer;
+}
+.add_post {
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+}

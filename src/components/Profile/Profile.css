@@ -1,0 +1,11 @@
+.profile__info {
+    width: 100%;
+    min-height: 300px;
+}
+.profile__info-header__about {
+    margin-left: 50px;
+}
+.profile__info-header {
+    display: flex;
+    align-items: center;
+}
